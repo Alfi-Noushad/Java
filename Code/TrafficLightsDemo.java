@@ -7,7 +7,7 @@ public class TrafficLightsDemo extends JFrame implements ActionListener
 	Signal green=new Signal(Color.green);
 	Signal yellow=new Signal(Color.yellow);
 	Signal red=new Signal(Color.red);
-	//java
+	//java script
 	
 	public TrafficLightsDemo()
 	{
