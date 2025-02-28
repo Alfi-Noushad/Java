@@ -1,3 +1,5 @@
+//using the inheritance properties we
+
 import java.util.Scanner;
 class employee
 {
