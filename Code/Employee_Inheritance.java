@@ -1,4 +1,4 @@
-//using the inheritance properties we create an employee lists
+//using the property
 
 import java.util.Scanner;
 class employee
