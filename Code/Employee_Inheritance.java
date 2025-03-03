@@ -1,4 +1,4 @@
-//using the property called inheritance aaaa
+//using the property called inheritance abb
 
 import java.util.Scanner;
 class employee
